@@ -1,0 +1,246 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+
+
+    <title>Partida</title>
+    <link href="Content/bootstrap.css" rel="stylesheet">
+    <link href="Content/site.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #313738;
+        }
+
+        #ele {
+            margin: 0 auto;
+            padding: 50px 0;
+        }
+
+        table {
+            margin: 0 auto;
+        }
+
+        .rojo {
+            background-color: red;
+        }
+
+        .azul {
+            background-color: blue;
+        }
+
+        .amarillo {
+            background-color: yellow;
+        }
+
+        .naranja {
+            background-color: gray;
+        }
+
+        .verde {
+            background-color: green;
+        }
+
+        td {
+            width: 40px;
+            height: 40px;
+            text-align: left;
+            color: #757d5f;
+            font-size: 8px;
+            border: solid 1px #313738;
+            background-color: #07889B;
+            border-radius: 4px;
+        }
+
+        td:hover {
+            background-color: rgba(255, 255, 255, 0.8);
+        }
+
+        #tableCandy {
+            margin-top: 10%;
+        }
+
+    </style>
+
+
+</head>
+<body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                Candy
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li></li>
+                    <li></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+
+        <div id="container">
+
+        </div>
+        <footer>
+            <p></p>
+        </footer>
+    </div>
+    <script src="Scripts/jquery-1.10.2.js"></script>
+    <script src="Scripts/logic.js"></script>
+    <script src="Scripts/bootstrap.js"></script>
+    <script src="Scripts/modernizr-2.6.2.js"></script>
+
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+           
+            var contToques = 0;
+            var movimiento1 = -1;
+            var movimiento2 = -1;
+            var apiURL = "http://localhost:7659/api/";
+            var partida = -1;
+
+            $.post(apiURL + "partida", { id: '0' })
+                        .done(function (data) {
+                            partida = data.id;
+                            Paint(data);
+                        });
+
+
+            $("body").on("click", "td", function () {
+
+                if (movimiento1 == $(this).attr("numero") || movimiento2 == $(this).attr("numero")) {
+                    return;
+                }
+
+                if (contToques == 0) {
+                    movimiento1 = $(this).attr("numero");
+                    contToques++;
+                
+                }
+                else {
+                    contToques++;
+                    movimiento2 = $(this).attr("numero");
+                }
+
+                if (movimiento2 > -1) {
+
+           
+                    var m2 = parseInt(movimiento2) + 1;
+                    var m3 = parseInt(movimiento2) - 1;
+                    var h = $('#' + m2).attr('class');
+                    var h1 = $('#' + m3).attr('class');
+                    if (h == $('#' + movimiento1).attr('class') && h1 == $('#' + movimiento1).attr('class')) {
+                        location.reload();
+                       
+
+                    }
+                  
+                    var h2 = parseInt(movimiento2) + 9;
+                    var h3 = parseInt(movimiento2) - 9;
+                    var h4 = $('#' + h2).attr('class');
+                    var h5 = $('#' + h3).attr('class');
+                    if (h4 == $('#' + movimiento1).attr('class') && h5 == $('#' + movimiento1).attr('class')) {
+                        location.reload();
+                    }
+
+                    var vup2 = parseInt(movimiento2) - 9;
+                    var vup3 = parseInt(movimiento2) - 18;
+                    var cl2 = $('#' + vup2).attr('class');
+                    var cl1 = $('#' + vup3).attr('class');
+                    if (cl2 == $('#' + movimiento1).attr('class') && cl1 == $('#' + movimiento1).attr('class')) {
+                        location.reload();
+                    }
+
+                    var vd2 = parseInt(movimiento2) + 9;
+                    var vd3 = parseInt(movimiento2) + 18;
+                    var cd2 = $('#' + vd2).attr('class');
+                    var cd1 = $('#' + vd3).attr('class');
+                    if (cd2 == $('#' + movimiento1).attr('class') && cd1 == $('#' + movimiento1).attr('class')) {
+                        location.reload();
+                    }
+                    //derecha +2
+                    var ext = parseInt(movimiento2) +1;
+                    var ext1 = parseInt(movimiento2) + 2;
+                    var cdd1 = $('#' + ext).attr('class');
+                    var cdd2 = $('#' + ext1).attr('class');
+                    if (cdd1 == $('#' + movimiento1).attr('class') && cdd2 == $('#' + movimiento1).attr('class')) {
+                        location.reload();
+                    }
+
+                    //izquierda +2
+                    var iz2 = parseInt(movimiento2) - 1;
+                    var iz1 = parseInt(movimiento2) -2;
+                    var csiz1 = $('#' + iz2).attr('class');
+                    var csiz2 = $('#' + iz1).attr('class');
+                    if (csiz1 == $('#' + movimiento1).attr('class') && csiz2 == $('#' + movimiento1).attr('class')) {
+                        location.reload();
+                    }
+
+
+                    $.ajax({
+                        url: apiURL + "partida/" + partida,
+                        type: 'PUT',
+                        data: { 'usuario': 0, 'movimiento1': movimiento1, 'movimiento2': movimiento2 },
+                        success: function (data) {
+                            Paint(data);
+                            movimiento1 = -1;
+                            movimiento2 = -1;
+                            contToques = 0;
+                        }
+                    });
+                }
+            });
+
+        });
+
+
+        function Paint(data) {
+            $("#container").html("");
+            var table = "";
+            var color = "red";
+            table += "<table id='tableCandy'>";
+            for (var i = 0; i < data.elementos.length; i++) {
+                if (i == 0 || i == 9 || i == 18 || i == 27 || i == 36 || i == 45 || i == 54 || i == 63)
+                    table += "<tr>";
+
+                if (data.elementos[i].color == 0)
+                    color = "rojo";
+
+                if (data.elementos[i].color == 1)
+                    color = "azul";
+
+                if (data.elementos[i].color == 2)
+                    color = "amarillo";
+
+                if (data.elementos[i].color == 3)
+                    color = "naranja";
+
+                if (data.elementos[i].color == 4)
+                    color = "verde";
+
+                table += "<td id='" + data.elementos[i].id + "' numero='" + data.elementos[i].id + "' class='" + color + "'   ></td>";
+                if (i == 8 || i == 17 || i == 26 || i == 35 || i == 44 || i == 53 || i == 62 || i == 71)
+                    table += "</tr>";
+            }
+            table += "</table>";
+            $("#container").html(table);
+        }
+        function mov() {
+
+        }
+
+    </script>
+
+</body>
+</html>

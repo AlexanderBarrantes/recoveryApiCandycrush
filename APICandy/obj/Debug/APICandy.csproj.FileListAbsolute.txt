@@ -1,0 +1,206 @@
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\obj\Debug\APICandy.csprojResolveAssemblyReference.cache
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\roslyn\csc.exe
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\roslyn\System.Collections.Immutable.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\roslyn\System.Reflection.Metadata.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\roslyn\vbc.exe
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\roslyn\VBCSCompiler.exe
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\roslyn\VBCSCompiler.exe.config
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\APICandy.dll.config
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\APICandy.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\APICandy.pdb
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\Antlr3.Runtime.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\EntityFramework.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\EntityFramework.SqlServer.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\Microsoft.Owin.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\Microsoft.Owin.Security.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\Microsoft.Owin.Security.Google.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\Microsoft.Web.Infrastructure.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\Newtonsoft.Json.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\Owin.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\System.Net.Http.Formatting.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\System.Web.Cors.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\System.Web.Helpers.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\System.Web.Http.Cors.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\System.Web.Http.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\System.Web.Http.Owin.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\System.Web.Http.WebHost.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\System.Web.Mvc.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\System.Web.Optimization.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\System.Web.Razor.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\System.Web.WebPages.Deployment.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\System.Web.WebPages.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\System.Web.WebPages.Razor.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\WebGrease.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\System.Web.Http.Cors.xml
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\Newtonsoft.Json.xml
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\System.Net.Http.Formatting.xml
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\System.Web.Helpers.xml
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\System.Web.Http.xml
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\System.Web.Http.WebHost.xml
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\System.Web.Mvc.xml
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\System.Web.Optimization.xml
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\System.Web.Razor.xml
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\System.Web.WebPages.xml
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\System.Web.WebPages.Deployment.xml
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\System.Web.WebPages.Razor.xml
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\Antlr3.Runtime.pdb
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\EntityFramework.xml
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\EntityFramework.SqlServer.xml
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\Microsoft.Owin.xml
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\Microsoft.Owin.Security.xml
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\Microsoft.Owin.Security.Google.xml
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\System.Web.Http.Owin.xml
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\es\System.Net.Http.Formatting.resources.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\es\System.Web.Helpers.resources.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\es\System.Web.Http.resources.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\es\System.Web.Http.WebHost.resources.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\es\System.Web.Mvc.resources.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\es\System.Web.Optimization.resources.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\es\System.Web.Razor.resources.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\es\System.Web.WebPages.resources.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\es\EntityFramework.resources.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\es\EntityFramework.SqlServer.resources.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\es\Microsoft.Owin.resources.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\es\Microsoft.Owin.Security.resources.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\es\Microsoft.Owin.Security.Google.resources.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\bin\es\System.Web.Http.Owin.resources.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\obj\Debug\APICandy.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\APICandy\obj\Debug\APICandy.pdb
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\roslyn\csc.exe
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\roslyn\vbc.exe
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\APICandy.dll.config
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\APICandy.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\APICandy.pdb
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\Antlr3.Runtime.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\EntityFramework.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\EntityFramework.SqlServer.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\Microsoft.Owin.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\Microsoft.Owin.Security.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\Newtonsoft.Json.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\Owin.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\System.Net.Http.Formatting.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\System.Web.Cors.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\System.Web.Helpers.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\System.Web.Http.Cors.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\System.Web.Http.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\System.Web.Http.Owin.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\System.Web.Http.WebHost.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\System.Web.Mvc.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\System.Web.Optimization.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\System.Web.Razor.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\System.Web.WebPages.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\WebGrease.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\System.Web.Http.Cors.xml
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\Newtonsoft.Json.xml
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\System.Net.Http.Formatting.xml
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\System.Web.Helpers.xml
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\System.Web.Http.xml
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\System.Web.Http.WebHost.xml
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\System.Web.Mvc.xml
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\System.Web.Optimization.xml
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\System.Web.Razor.xml
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\System.Web.WebPages.xml
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\Antlr3.Runtime.pdb
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\EntityFramework.xml
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\EntityFramework.SqlServer.xml
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\Microsoft.Owin.xml
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\Microsoft.Owin.Security.xml
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\System.Web.Http.Owin.xml
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\es\System.Web.Http.resources.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\es\System.Web.Razor.resources.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\es\EntityFramework.resources.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\bin\es\System.Web.Http.Owin.resources.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\obj\Debug\APICandy.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Desktop\Candy-master\APICandy\obj\Debug\APICandy.dll
+C:\Users\Alexander\Desktop\Candy-master\APICandy\obj\Debug\APICandy.pdb
